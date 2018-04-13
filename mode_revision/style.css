@@ -1,0 +1,12 @@
+body{
+	background-image: url(education.jpg);
+	padding: 215px;
+    text-align: center;
+}
+
+.exo{
+	background-image:url(paper.png);
+display: inline-block;
+     padding: 50px;
+     padding-left: 10px;
+}
